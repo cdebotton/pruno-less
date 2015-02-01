@@ -1,6 +1,6 @@
 {
   "name": "pruno-less",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A LESS mix for pruno that includes font-awesome, normalize.css.",
   "main": "index.js",
   "scripts": {
